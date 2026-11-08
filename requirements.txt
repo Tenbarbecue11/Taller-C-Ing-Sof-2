@@ -1,0 +1,1 @@
+# No hay dependencias externas. Se utiliza unittest y unittest.mock de la biblioteca estándar de Python.
